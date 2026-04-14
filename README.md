@@ -1,0 +1,1 @@
+The purpose of this project is to put the basic Javascript knowledge that i've acquired from The Odin Project Foundation course. This is a rock paper scissors game that is played in the web console.
